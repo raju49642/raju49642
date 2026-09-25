@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".ChatGPT Image Sep 25, 2026, 05_06_20 PM" width="100%" alt="Matta Venkata Nagaraju - Full-Stack Developer">
+<img src="./ChatGPT%20Image%20Sep%2025,%202026,%2005_06_20%20PM.png" width="100%" alt="Matta Venkata Nagaraju - Full-Stack Developer">
 
 </div>
 
@@ -24,16 +24,16 @@
 I'm a Full-Stack Developer interested in building real-world applications
 across software engineering, web development, and AI/ML.
 
-My primary development focus is **Java and Spring Boot**, with **Angular**
-as my frontend framework. I also explore Python, computer vision,
-machine learning, and Generative AI.
+My primary development focus is <strong>Java and Spring Boot</strong>, with
+<strong>Angular</strong> as my frontend framework. I also explore Python,
+computer vision, machine learning, and Generative AI.
 
-- 🔭 Currently focusing on **Full-Stack Development**
-- ☕ Primary language: **Java**
-- 🌐 Backend: **Spring Boot & REST APIs**
-- 🎨 Frontend: **Angular, JavaScript, HTML & CSS**
-- 🗄️ Database: **MySQL & SQL**
-- 🤖 Exploring **AI/ML, Computer Vision & Generative AI**
+- 🔭 Currently focusing on <strong>Full-Stack Development</strong>
+- ☕ Primary language: <strong>Java</strong>
+- 🌐 Backend: <strong>Spring Boot & REST APIs</strong>
+- 🎨 Frontend: <strong>Angular, JavaScript, HTML & CSS</strong>
+- 🗄️ Database: <strong>MySQL & SQL</strong>
+- 🤖 Exploring <strong>AI/ML, Computer Vision & Generative AI</strong>
 - 🧠 Interested in building practical, real-world applications
 
 ---
@@ -154,60 +154,80 @@ and operations.
 
 ## 📚 Currently Learning
 
-```text
-Full-Stack Development
-        │
-        ├── Java
-        ├── Spring Boot
-        ├── REST APIs
-        ├── Angular
-        ├── TypeScript
-        └── MySQL
+<div align="center">
 
-AI / ML
-        │
-        ├── Python
-        ├── PyTorch
-        ├── Computer Vision
-        └── Generative AI
+### Full-Stack Development
+
+`Java` · `Spring Boot` · `REST APIs` · `Angular` · `TypeScript` · `MySQL`
+
+### AI / Machine Learning
+
+`Python` · `PyTorch` · `Computer Vision` · `Generative AI`
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building full-stack applications using **Java + Spring Boot + Angular**
+- Strengthening **DSA and Java problem solving**
+- Developing practical **REST APIs**
+- Improving frontend development with **Angular & TypeScript**
+- Exploring **AI/ML and Computer Vision**
+- Building projects that combine **software engineering and AI**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raju49642&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju49642&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
 
 ## 🌱 What I'm Exploring
 
+<p align="center">
+
 `Full-Stack Development` · `Spring Boot` · `Angular` · `TypeScript`
 · `AI/ML` · `Computer Vision` · `Generative AI`
+
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/raju49642">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/matta-venkata-nagaraju-3742a4285/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:rajumatta2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</div>
+<a href="https://github.com/raju49642">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<br>
+</p>
 
-<div align="center">
-
-📧 **rajumatta2005@gmail.com**
-
-</div>
+<p align="center">
+  📧 <a href="mailto:rajumatta2005@gmail.com">raju2005@gmail.com</a>
+</p>
 
 ---
 
 <div align="center">
 
-### "Build. Learn. Improve. Repeat."
+<i>Build. Learn. Improve. Repeat.</i>
 
 </div>
