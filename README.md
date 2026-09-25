@@ -221,7 +221,7 @@ and operations.
 </p>
 
 <p align="center">
-  📧 <a href="mailto:rajumatta2005@gmail.com">raju2005@gmail.com</a>
+  📧 <a href="mailto:rajumatta2005@gmail.com">rajumatta2005@gmail.com</a>
 </p>
 
 ---
